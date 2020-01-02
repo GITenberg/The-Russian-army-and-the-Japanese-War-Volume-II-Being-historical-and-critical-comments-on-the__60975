@@ -1,5 +1,5 @@
 _repo: The-Russian-army-and-the-Japanese-War-Volume-II-Being-historical-and-critical-comments-on-the__60975
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lindsay, A. B. (Alexander Bertram)
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '49316'
     url: http://www.gutenberg.org/2009/agents/49316
+covers:
+- cover_type: archival
+  image_path: 60975-h/images/cover.jpg
 creator:
   author:
     agent_name: Kuropatkin, Aleksei Nicolaevich
     gutenberg_agent_id: '51209'
     url: http://www.gutenberg.org/2009/agents/51209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60975#The-Russian-army-and-the-Japanese-War-Volume-II-Being-historical-and-critical-comments-on-the_
 gutenberg_issued: '2019-12-20'
 gutenberg_type: Text
 identifiers:
